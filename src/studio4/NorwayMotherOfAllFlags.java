@@ -29,8 +29,8 @@ public class NorwayMotherOfAllFlags {
 	}
 
 	public static void france() {
+		StdDraw
 		
-		// TODO
 	}
 
 	public static void indonesia() {
